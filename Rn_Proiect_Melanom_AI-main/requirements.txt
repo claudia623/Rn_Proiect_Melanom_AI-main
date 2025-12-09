@@ -39,3 +39,5 @@ tensorboard>=2.15.0
 
 # Opțional - GPU support (decomentează dacă ai CUDA)
 # tensorflow-gpu>=2.15.0
+
+streamlit>=1.30.0

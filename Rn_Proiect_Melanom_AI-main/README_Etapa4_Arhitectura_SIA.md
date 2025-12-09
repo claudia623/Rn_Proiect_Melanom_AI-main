@@ -517,9 +517,7 @@ git push origin v0.4-architecture
 
 ## Contact și Suport
 
-- **Repository:** [GitHub Link - TODO]
-- **Profesor Curs:** [Email - TODO]
-- **Profesor Proiect:** [Email - TODO]
+- **Repository:** https://github.com/claudia623/Rn_Proiect_Melanom_AI-main.git
 - **Student:** Dumitru Claudia-Stefania
 
 ---
